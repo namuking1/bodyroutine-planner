@@ -1,5 +1,7 @@
 # 바디루틴
 
+**[바디루틴 웹사이트 바로 실행](https://namuking1.github.io/bodyroutine-planner/app/)**
+
 체성분 측정값과 운동 수행을 함께 기록하는 독립적인 웹 앱입니다.
 
 ## 실행
